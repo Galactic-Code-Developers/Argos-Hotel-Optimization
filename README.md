@@ -87,7 +87,7 @@ available on Zenodo:
 ## Software Metadata
 
 **Name:** ARGOS — Adaptive Recursive Gradient Optimization System  
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 **Release Date:** 2025  
 **License:** MIT  
 **Repository:** https://github.com/Galactic-Code-Developers/Argos-Hotel-Optimization  
