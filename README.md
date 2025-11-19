@@ -121,46 +121,51 @@ Researchers, operations analysts, optimization practitioners, and academic colla
 
 ## How to Cite
 
-If you use the ARGOS framework or its associated synthetic datasets, please cite
-both the **software** and the **dataset**.
+If you use the ARGOS optimization system or its accompanying synthetic datasets,
+please cite both the **dataset** and the **software** using the references below.
 
 ---
 
-### 🔹 Software (ARGOS)
+### 🔹 Dataset Citation
 
-[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644920.svg)](https://doi.org/10.5281/zenodo.17644920)
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645086.svg)](https://doi.org/10.5281/zenodo.17645086)
 
-> Valamontes, A. (2025). **ARGOS: Adaptive Recursive Gradient Optimization
-> System**. Zenodo. https://doi.org/10.5281/zenodo.17644920
-
----
-
-### 🔹 Dataset (ARGOS Synthetic Hotel Optimization Datasets)
-
-[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645085.svg)](https://doi.org/10.5281/zenodo.17645085)
-
-> Valamontes, A. (2025). **ARGOS Synthetic Hotel Optimization Datasets**.
-> Zenodo. https://doi.org/10.5281/zenodo.17645085
+> **Valamontes, A. (2025). _ARGOS Synthetic Hotel Optimization Datasets_ [Data set].  
+> Kapodistrian Academy of Science.**  
+> https://doi.org/10.5281/zenodo.17645086
 
 ---
 
-### 🔹 BibTeX
+### 🔹 Software Citation (ARGOS System)
+
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645169.svg)](https://doi.org/10.5281/zenodo.17645169)
+
+> **Valamontes, A., & Research Team, C. (2025). _ARGOS: Adaptive Recursive Gradient Optimization System_ (Version 1.0.1).  
+> Kapodistrian Academy of Science.**  
+> https://doi.org/10.5281/zenodo.17645169
+
+---
+
+### 🔹 BibTeX Entries
 
 ```bibtex
-@software{Valamontes_ARGOS_2025,
-  author       = {Valamontes, Antonios},
-  title        = {ARGOS: Adaptive Recursive Gradient Optimization System},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17644920},
-  url          = {https://doi.org/10.5281/zenodo.17644920}
-}
-
 @dataset{Valamontes_ARGOS_Datasets_2025,
   author       = {Valamontes, Antonios},
   title        = {ARGOS Synthetic Hotel Optimization Datasets},
   year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17645085},
-  url          = {https://doi.org/10.5281/zenodo.17645085}
+  publisher    = {Kapodistrian Academy of Science},
+  doi          = {10.5281/zenodo.17645086},
+  url          = {https://doi.org/10.5281/zenodo.17645086},
+  version      = {1.0.0},
+  note         = {Data set}
+}
+
+@software{Valamontes_ARGOS_2025,
+  author       = {Valamontes, Antonios and Research Team, C.},
+  title        = {ARGOS: Adaptive Recursive Gradient Optimization System},
+  year         = {2025},
+  publisher    = {Kapodistrian Academy of Science},
+  doi          = {10.5281/zenodo.17645169},
+  url          = {https://doi.org/10.5281/zenodo.17645169},
+  version      = {1.0.1}
 }
