@@ -1,0 +1,25 @@
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Optimization + CMDP/LCO tools
+pyomo==6.7.1
+networkx==3.2.1
+
+# Plotting & visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Jupyter/Notebook support
+jupyter==1.0.0
+notebook==7.2.1
+ipykernel==6.29.4
+
+# Optional: QUBO utilities / matrix handling
+dwave-neal==0.6.6     # Simulated annealing backend
+dimod==0.12.14        # QUBO/BQM container
+
+# Utilities
+tqdm==4.66.4
+pyyaml==6.0.1
