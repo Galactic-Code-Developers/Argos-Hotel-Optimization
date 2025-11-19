@@ -10,6 +10,9 @@ All datasets are fully synthetic, generated using the ARGOS
 hotel-environment simulator, and are safe for open distribution under the MIT
 License.
 
+The synthetic datasets used for all experiments are openly available on Zenodo
+under the DOI: https://doi.org/10.5281/zenodo.17645085.
+
 ---
 
 ## 1. `synthetic_long_horizon.csv`
