@@ -1,9 +1,8 @@
 # ARGOS Hotel Optimization Framework
 
-This repository contains reference code, data, and experiment scripts for the paper:
-
 The repository is organized for easy extension and reproduction of the main experimental results.
-# **ARGOS: Adaptive Recursive Gradient Optimization System for Hierarchical Decision-Making**
+
+## **ARGOS: Adaptive Recursive Gradient Optimization System for Hierarchical Decision-Making**
 
 ARGOS is a research framework that integrates:
 
