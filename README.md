@@ -69,7 +69,7 @@ argos_hotel_optimization/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
-
+```
 ## Software Metadata
 
 **Name:** ARGOS — Adaptive Recursive Gradient Optimization System  
