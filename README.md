@@ -119,5 +119,48 @@ Lexicographic Constraint Optimization (LCO) with Componentwise Approximated Grad
 **Intended Users:**  
 Researchers, operations analysts, optimization practitioners, and academic collaborators evaluating lexicographically constrained decision systems.
 
-**How to Cite:**  
-Valamontes, A. (2025). *ARGOS: Adaptive Recursive Gradient Optimization System* (Preprint).
+## How to Cite
+
+If you use the ARGOS framework or its associated synthetic datasets, please cite
+both the **software** and the **dataset**.
+
+---
+
+### 🔹 Software (ARGOS)
+
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644920.svg)](https://doi.org/10.5281/zenodo.17644920)
+
+> Valamontes, A. (2025). **ARGOS: Adaptive Recursive Gradient Optimization
+> System**. Zenodo. https://doi.org/10.5281/zenodo.17644920
+
+---
+
+### 🔹 Dataset (ARGOS Synthetic Hotel Optimization Datasets)
+
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645085.svg)](https://doi.org/10.5281/zenodo.17645085)
+
+> Valamontes, A. (2025). **ARGOS Synthetic Hotel Optimization Datasets**.
+> Zenodo. https://doi.org/10.5281/zenodo.17645085
+
+---
+
+### 🔹 BibTeX
+
+```bibtex
+@software{Valamontes_ARGOS_2025,
+  author       = {Valamontes, Antonios},
+  title        = {ARGOS: Adaptive Recursive Gradient Optimization System},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17644920},
+  url          = {https://doi.org/10.5281/zenodo.17644920}
+}
+
+@dataset{Valamontes_ARGOS_Datasets_2025,
+  author       = {Valamontes, Antonios},
+  title        = {ARGOS Synthetic Hotel Optimization Datasets},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17645085},
+  url          = {https://doi.org/10.5281/zenodo.17645085}
+}
