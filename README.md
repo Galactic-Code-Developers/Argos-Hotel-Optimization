@@ -69,3 +69,41 @@ argos_hotel_optimization/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+
+## Software Metadata
+
+**Name:** ARGOS — Adaptive Recursive Gradient Optimization System  
+**Version:** 1.0.0  
+**Release Date:** 2025  
+**License:** MIT  
+**Repository:** [https://github.com/<your-org>/argos-hotel-optimization](https://github.com/Galactic-Code-Developers/Argos-Hotel-Optimization)  
+**Programming Language:** Python 3.9+  
+**Primary Dependencies:** NumPy, Pandas, Matplotlib  
+**Supported Platforms:** Linux, macOS, Windows  
+**Continuous Integration:** GitHub Actions (optional)  
+**Documentation:** Included in `docs/` and notebooks in `notebooks/`  
+
+**Primary Purpose:**  
+Stable hierarchical optimization under strict lexicographic priorities, combining  
+Lexicographic Constraint Optimization (LCO) with Componentwise Approximated Gradient (CAG).  
+
+**Research Domains:**  
+- Operations Research  
+- Optimization & Control  
+- Reinforcement Learning (CMDP-style)  
+- Hospitality Management Systems  
+- Multi-agent & Multi-unit resource allocation  
+
+**Key Features:**  
+- Lexicographically safe updates (Tier-1 invariants always preserved)  
+- Componentwise selective gradient filtering (CAG)  
+- Integrated LCO + CAG update engine (ARGOS Core)  
+- Single-unit and multi-unit hotel environment simulators  
+- Ablation tools (Newton-only, CAG-only, full ARGOS)  
+- Reproducible experiments via CLI and Colab notebooks  
+
+**Intended Users:**  
+Researchers, operations analysts, optimization practitioners, and academic collaborators evaluating lexicographically constrained decision systems.
+
+**How to Cite:**  
+Valamontes, A. (2025). *ARGOS: Adaptive Recursive Gradient Optimization System* (Preprint).
