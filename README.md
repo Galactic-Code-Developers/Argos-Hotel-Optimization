@@ -76,6 +76,16 @@ argos_hotel_optimization/
 ├── requirements.txt
 └── LICENSE
 ```
+## Data Availability
+
+All datasets used in the ARGOS experiments are fully synthetic and openly
+available on Zenodo:
+
+**Dataset DOI:**  
+[https://doi.org/10.5281/zenodo.17645085](https://doi.org/10.5281/zenodo.17645085)
+
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645085.svg)](https://doi.org/10.5281/zenodo.17645085)
+
 ## Software Metadata
 
 **Name:** ARGOS — Adaptive Recursive Gradient Optimization System  
