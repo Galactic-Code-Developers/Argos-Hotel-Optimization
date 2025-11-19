@@ -68,7 +68,7 @@ Supports **Appendix D — Ablation Studies**.
 
 **Step 1 — Clone repo or upload notebook**
 ```python
-!git clone https://github.com/<your-org>/argos-hotel-optimization.git
+!git clone https://github.com/Galactic-Code-Developers/Argos-Hotel-Optimization.git
 %cd argos-hotel-optimization
 ```
 
