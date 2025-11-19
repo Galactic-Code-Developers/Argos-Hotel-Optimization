@@ -1,5 +1,7 @@
 # ARGOS Dataset Directory
 
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645085.svg)](https://doi.org/10.5281/zenodo.17645085)
+
 This directory contains all synthetic datasets used for experiments, ablation
 studies, and reproducibility in the **ARGOS (Adaptive Recursive Gradient
 Optimization System)** project.
