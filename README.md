@@ -76,7 +76,7 @@ argos_hotel_optimization/
 **Version:** 1.0.0  
 **Release Date:** 2025  
 **License:** MIT  
-**Repository:** [https://github.com/<your-org>/argos-hotel-optimization](https://github.com/Galactic-Code-Developers/Argos-Hotel-Optimization)  
+**Repository:** https://github.com/Galactic-Code-Developers/Argos-Hotel-Optimization  
 **Programming Language:** Python 3.9+  
 **Primary Dependencies:** NumPy, Pandas, Matplotlib  
 **Supported Platforms:** Linux, macOS, Windows  
