@@ -1,0 +1,35 @@
+{
+  "title": "ARGOS: Adaptive Recursive Gradient Optimization System",
+  "upload_type": "software",
+  "publication_type": "software",
+  "description": "ARGOS integrates Lexicographic Constraint Optimization (LCO) with Componentwise Approximated Gradient (CAG) to provide a stable, lexicographically safe optimization engine for hierarchical control, demonstrated in hotel and multi-unit management.",
+  "creators": [
+    {
+      "name": "Valamontes, Antonios",
+      "affiliation": "Kapodistrian Academy of Science"
+    },
+    {
+      "name": "Research Team, Collaborators",
+      "affiliation": "Kapodistrian Academy of Science"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ARGOS",
+    "LCO",
+    "CAG",
+    "hierarchical optimization",
+    "lexicographic decision-making",
+    "CMDP",
+    "hotel management",
+    "QUBO"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Galactic-Code-Developers/Argos-Hotel-Optimization"
+    }
+  ],
+  "version": "1.0.0",
+  "language": "en"
+}
