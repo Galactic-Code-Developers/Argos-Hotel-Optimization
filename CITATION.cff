@@ -11,7 +11,7 @@ authors:
     orcid: "0000-0000-0000-0000"   # optional
   - family-names: "Collaborators"
     given-names: "Research Team"
-repository-code: "https://github.com/<your-org>/argos-hotel-optimization"
+repository-code: "https://github.com/Galactic-Code-Developers/Argos-Hotel-Optimization"
 keywords:
   - LCO
   - CAG
